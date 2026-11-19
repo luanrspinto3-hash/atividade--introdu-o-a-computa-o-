@@ -1,6 +1,5 @@
 # atividade--introdu-o-a-computa-o-
 
-
 import json
 import matplotlib.pyplot as plt
 
@@ -428,9 +427,3 @@ def menu_principal():
 
 if __name__ == "__main__":
     menu_principal()
-
-
-
-
-
-nome:Luan Roberto Soares Pinto
