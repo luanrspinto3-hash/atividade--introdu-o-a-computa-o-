@@ -1,5 +1,6 @@
 # atividade--introdu-o-a-computa-o-
 
+
 import json
 import matplotlib.pyplot as plt
 
